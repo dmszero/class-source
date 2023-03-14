@@ -12,4 +12,5 @@
  전국 대학생 IT 아이디어 대회
  [대상 수상자 발표자료](/presentation.pptx)
  
- 발표 동영상 <iframe width="1237" height="696" src="https://www.youtube.com/embed/I7bc9MnwC-g" title="&#39;우물 안 개구리&#39; 절감‥한국 야구의 현실 (2023.03.14/뉴스투데이/MBC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 발표 동영상 
+ <iframe width="1237" height="696" src="https://www.youtube.com/embed/I7bc9MnwC-g" title="&#39;우물 안 개구리&#39; 절감‥한국 야구의 현실 (2023.03.14/뉴스투데이/MBC)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
